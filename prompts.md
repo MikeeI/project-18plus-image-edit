@@ -3,7 +3,7 @@ Modify the model with these physical changes to create an aesthetic of profound,
 Pose: Change her stance to kneeling on the floor. Her back should be straight, chest presented forward. Place her hands on her thighs or behind her back to show helplessness.
 Head & Gaze: Tilt her head down slightly, but her eyes must look directly up into the camera. This gaze is essential.
 Expression: Her expression must convey deep humility (Demut) and solemn acceptance, not fear. Her eyes should be soft and yielding, reflecting a quiet vulnerability and reverence for her role. Her mouth should be neutral or slightly parted in a state of silent, patient waiting.
-Props: Add a simple but tight black leather collar around her neck. Optionally, add a leash attached to it, held by someone out of frame.
+Props: Add a simple but tight black leather collar around her neck. Optionally, add a leash attached to it, held by herself.
 
 
 
@@ -13,7 +13,7 @@ Transform the model's attire into an ethereal fashion piece. Replace the blue pa
 
 ### Option 2: Dramatic Corset (with Pantyhose)
 
-Reimagine her outfit as a dramatic, architectural fashion piece. Replace the suit with a structured black satin corset bodice that emphasizes a powerful silhouette. To create a seamless, elongated line, dress her in sheer black pantyhose that unify the entire look from the waist down. The hosiery is essential to grounding the dramatic contrast between the rigid bodice and the intended lack of a skirt, focusing the aesthetic on form and figure in a high-fashion context.
+Reimagine the model's outfit as a dramatic, architectural fashion piece. Style her in a structured black satin corset bodice that emphasizes a powerful silhouette. To create a seamless, elongated line, dress her in sheer black pantyhose. The look is completed with a simple black choker necklace, from which a decorative leather cord extends. She holds the end of this cord herself, making it an integral part of her pose. Ensure the output is one single, coherent image.
 
 ### Option 3: The Bold Two-Piece (with Thigh-Highs)
 
